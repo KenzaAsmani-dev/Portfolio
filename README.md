@@ -4,7 +4,7 @@ Il s’agit d’un Portfolio pour un développeur web Full Stack, on peut le mod
 ### Ses Parties : 
 - La présentation de développeur
 - Ses compétences techniques
-- Ses projets réalisés
+- Ses projets
 - Son parcours académique
 - Ses Formations
 - Ses Stages
